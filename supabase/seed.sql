@@ -1,0 +1,2 @@
+-- Sem seed automático de usuários ou dados financeiros.
+-- A demonstração opt-in está em src/lib/demo.ts e é acessada em /demo.
